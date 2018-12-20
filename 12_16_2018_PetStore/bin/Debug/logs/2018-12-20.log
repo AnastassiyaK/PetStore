@@ -1,0 +1,166 @@
+2018-12-20 21:43:08.0611 | DEBUG | _12_16_2018_PetStore.PetStore | ADDING A PET
+2018-12-20 21:43:10.0014 | DEBUG | _12_16_2018_PetStore.PetStore | Sending request {"name":"Doggie","photoUrls":["http://image.com/image.jpg"],"status":"available"}
+2018-12-20 21:43:10.0014 | DEBUG | _12_16_2018_PetStore.PetStore | Response body: {
+  "id": 298364836485,
+  "name": "Doggie",
+  "photoUrls": [
+    "http://image.com/image.jpg"
+  ],
+  "tags": [],
+  "status": "available"
+}
+2018-12-20 21:43:10.0014 | DEBUG | _12_16_2018_PetStore.PetStore | Response id: 298364836485
+2018-12-20 21:43:10.0014 | DEBUG | _12_16_2018_PetStore.PetStore | GETTING A PET WITH 298364836485
+2018-12-20 21:43:10.4507 | DEBUG | _12_16_2018_PetStore.PetStore | Pet is received. Request name Doggie, response name Doggie
+2018-12-20 21:43:10.4922 | DEBUG | _12_16_2018_PetStore.PetStore | ADDING A PET
+2018-12-20 21:43:11.0058 | DEBUG | _12_16_2018_PetStore.PetStore | Sending request {"name":"Doggie","photoUrls":["http://image.com/image.jpg"],"status":"available"}
+2018-12-20 21:43:11.0058 | DEBUG | _12_16_2018_PetStore.PetStore | Response body: {
+  "id": 298364836486,
+  "name": "Doggie",
+  "photoUrls": [
+    "http://image.com/image.jpg"
+  ],
+  "tags": [],
+  "status": "available"
+}
+2018-12-20 21:43:11.0058 | DEBUG | _12_16_2018_PetStore.PetStore | Response id: 298364836486
+2018-12-20 21:43:11.0058 | DEBUG | _12_16_2018_PetStore.PetStore | UPDATING A PET WITH 298364836486
+2018-12-20 21:43:11.9129 | DEBUG | _12_16_2018_PetStore.PetStore | Pet is updated. Old name wasDoggie, response updated name Bobik
+2018-12-20 21:43:11.9268 | DEBUG | _12_16_2018_PetStore.PetStore | ADDING A PET
+2018-12-20 21:43:12.4359 | DEBUG | _12_16_2018_PetStore.PetStore | Sending request {"name":"Doggie","photoUrls":["http://image.com/image.jpg"],"status":"available"}
+2018-12-20 21:43:12.4359 | DEBUG | _12_16_2018_PetStore.PetStore | Response body: {
+  "id": 298364836489,
+  "name": "Doggie",
+  "photoUrls": [
+    "http://image.com/image.jpg"
+  ],
+  "tags": [],
+  "status": "available"
+}
+2018-12-20 21:43:12.4379 | DEBUG | _12_16_2018_PetStore.PetStore | Response id: 298364836489
+2018-12-20 21:43:12.4379 | DEBUG | _12_16_2018_PetStore.PetStore | DELETING A PET WITH 298364836489
+2018-12-20 21:43:13.6115 | DEBUG | _12_16_2018_PetStore.PetStore | Response body : {
+  "code": 1,
+  "type": "error",
+  "message": "Pet not found"
+}
+2018-12-20 21:43:13.6115 | DEBUG | _12_16_2018_PetStore.PetStore | SENDING INFO FROM JSON
+2018-12-20 21:43:14.2902 | DEBUG | _12_16_2018_PetStore.PetStore | We sent pet id 85462 and received pet id 85462
+2018-12-20 21:45:14.5888 | DEBUG | ADDING A PET
+2018-12-20 21:45:16.4693 | DEBUG | Sending request {"name":"Doggie","photoUrls":["http://image.com/image.jpg"],"status":"available"}
+2018-12-20 21:45:16.4693 | DEBUG | Response body: {
+  "id": 298364836492,
+  "name": "Doggie",
+  "photoUrls": [
+    "http://image.com/image.jpg"
+  ],
+  "tags": [],
+  "status": "available"
+}
+2018-12-20 21:45:16.4693 | DEBUG | Response id: 298364836492
+2018-12-20 21:45:16.4693 | DEBUG | GETTING A PET WITH 298364836492
+2018-12-20 21:45:16.8854 | DEBUG | Pet is received. Request name Doggie, response name Doggie
+2018-12-20 21:45:16.9243 | DEBUG | ADDING A PET
+2018-12-20 21:45:17.4342 | DEBUG | Sending request {"name":"Doggie","photoUrls":["http://image.com/image.jpg"],"status":"available"}
+2018-12-20 21:45:17.4382 | DEBUG | Response body: {
+  "id": 298364836493,
+  "name": "Doggie",
+  "photoUrls": [
+    "http://image.com/image.jpg"
+  ],
+  "tags": [],
+  "status": "available"
+}
+2018-12-20 21:45:17.4382 | DEBUG | Response id: 298364836493
+2018-12-20 21:45:17.4382 | DEBUG | UPDATING A PET WITH 298364836493
+2018-12-20 21:45:18.3432 | DEBUG | Pet is updated. Old name wasDoggie, response updated name Bobik
+2018-12-20 21:45:18.3592 | DEBUG | ADDING A PET
+2018-12-20 21:45:18.8703 | DEBUG | Sending request {"name":"Doggie","photoUrls":["http://image.com/image.jpg"],"status":"available"}
+2018-12-20 21:45:18.8703 | DEBUG | Response body: {
+  "id": 298364836494,
+  "name": "Doggie",
+  "photoUrls": [
+    "http://image.com/image.jpg"
+  ],
+  "tags": [],
+  "status": "available"
+}
+2018-12-20 21:45:18.8753 | DEBUG | Response id: 298364836494
+2018-12-20 21:45:18.8753 | DEBUG | DELETING A PET WITH 298364836494
+2018-12-20 21:45:20.0736 | DEBUG | Response body : {
+  "code": 1,
+  "type": "error",
+  "message": "Pet not found"
+}
+2018-12-20 21:45:20.0736 | DEBUG | SENDING INFO FROM JSON
+2018-12-20 21:45:20.7787 | DEBUG | We sent pet id 85462 and received pet id 85462
+2018-12-20 21:47:01.9663 | DEBUG | SENDING INFO FROM JSON
+2018-12-20 21:47:04.1116 | DEBUG | We sent pet id 85462 and received pet id 85462
+2018-12-20 21:49:29.4551 | DEBUG | SENDING INFO FROM JSON
+2018-12-20 21:49:31.5941 | DEBUG | Response body {
+  "id": 85462,
+  "name": "Bobik",
+  "photoUrls": [
+    "http://image.com/image.jpg"
+  ],
+  "tags": [],
+  "status": "available"
+}
+2018-12-20 21:49:31.5941 | DEBUG | We sent pet id 85462 and received pet id 85462
+2018-12-20 22:59:41.3122 | DEBUG | ADDING A PET
+2018-12-20 22:59:43.4670 | DEBUG | Sending request {"name":"Doggie","photoUrls":["http://image.com/image.jpg"],"status":"available"}
+2018-12-20 22:59:43.4670 | DEBUG | Response body: {
+  "id": 9823094509640,
+  "name": "Doggie",
+  "photoUrls": [
+    "http://image.com/image.jpg"
+  ],
+  "tags": [],
+  "status": "available"
+}
+2018-12-20 22:59:43.4700 | DEBUG | Response id: 9823094509640
+2018-12-20 22:59:43.4700 | DEBUG | GETTING A PET WITH 9823094509640
+2018-12-20 22:59:43.8589 | DEBUG | Pet is received. Request name Doggie, response name Doggie
+2018-12-20 22:59:43.8759 | DEBUG | ADDING A PET
+2018-12-20 22:59:44.4057 | DEBUG | Sending request {"name":"Doggie","photoUrls":["http://image.com/image.jpg"],"status":"available"}
+2018-12-20 22:59:44.4067 | DEBUG | Response body: {
+  "id": 9823094509641,
+  "name": "Doggie",
+  "photoUrls": [
+    "http://image.com/image.jpg"
+  ],
+  "tags": [],
+  "status": "available"
+}
+2018-12-20 22:59:44.4067 | DEBUG | Response id: 9823094509641
+2018-12-20 22:59:44.4067 | DEBUG | UPDATING A PET WITH 9823094509641
+2018-12-20 22:59:45.3012 | DEBUG | Pet is updated. Old name wasDoggie, response updated name Bobik
+2018-12-20 22:59:45.3012 | DEBUG | ADDING A PET
+2018-12-20 22:59:45.8609 | DEBUG | Sending request {"name":"Doggie","photoUrls":["http://image.com/image.jpg"],"status":"available"}
+2018-12-20 22:59:45.8609 | DEBUG | Response body: {
+  "id": 9823094509642,
+  "name": "Doggie",
+  "photoUrls": [
+    "http://image.com/image.jpg"
+  ],
+  "tags": [],
+  "status": "available"
+}
+2018-12-20 22:59:45.8609 | DEBUG | Response id: 9823094509642
+2018-12-20 22:59:45.8609 | DEBUG | DELETING A PET WITH 9823094509642
+2018-12-20 22:59:47.0592 | DEBUG | Response body : {
+  "code": 1,
+  "type": "error",
+  "message": "Pet not found"
+}
+2018-12-20 22:59:47.0592 | DEBUG | SENDING INFO FROM JSON
+2018-12-20 22:59:47.7602 | DEBUG | Response body {
+  "id": 85462,
+  "name": "Bobik",
+  "photoUrls": [
+    "http://image.com/image.jpg"
+  ],
+  "tags": [],
+  "status": "available"
+}
+2018-12-20 22:59:47.7602 | DEBUG | We sent pet id 85462 and received pet id 85462
