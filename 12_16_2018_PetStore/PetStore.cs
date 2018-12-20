@@ -20,12 +20,7 @@ namespace _12_16_2018_PetStore
         private static Logger log = LogManager.GetCurrentClassLogger();
         public const string path = "https://petstore.swagger.io";
         public string name= "'Doggie'";
-        public string GetStringFromJSON()
-        {
-            string json = "";
-            return json;
-        }
-        
+              
         public string AddPet()
         {
             log.Debug($"ADDING A PET");
@@ -147,8 +142,8 @@ namespace _12_16_2018_PetStore
 
         }
 
-        [Test]
-        [Order(6)]
-        [Description("Sen")]
+        //[Test]
+        //[Order(6)]
+        //[Description("Sen")]
     }
 }
