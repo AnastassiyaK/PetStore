@@ -1,0 +1,85 @@
+2018-12-17 23:02:40.1246 | DEBUG | _12_16_2018_PetStore.PetStore | Sending request {"name":"mydog1","photoUrls":["http://image.com/image.jpg"],"status":"available"}
+2018-12-17 23:02:40.1525 | DEBUG | _12_16_2018_PetStore.PetStore | Response body: {
+  "id": 8315298304486469325,
+  "name": "mydog1",
+  "photoUrls": [
+    "http://image.com/image.jpg"
+  ],
+  "tags": [],
+  "status": "available"
+}
+2018-12-17 23:16:04.3862 | DEBUG | _12_16_2018_PetStore.PetStore | Sending request {"name":"mydog1","photoUrls":["http://image.com/image.jpg"],"status":"available"}
+2018-12-17 23:16:04.4161 | DEBUG | _12_16_2018_PetStore.PetStore | Response body: {
+  "id": 8315298304486469455,
+  "name": "mydog1",
+  "photoUrls": [
+    "http://image.com/image.jpg"
+  ],
+  "tags": [],
+  "status": "available"
+}
+2018-12-17 23:16:04.4161 | DEBUG | _12_16_2018_PetStore.PetStore | 8315298304486469455
+2018-12-17 23:24:52.2332 | DEBUG | _12_16_2018_PetStore.PetStore | Sending request {"name":"mydog1","photoUrls":["http://image.com/image.jpg"],"status":"available"}
+2018-12-17 23:24:52.2622 | DEBUG | _12_16_2018_PetStore.PetStore | Response body: {
+  "id": 8315298304486469523,
+  "name": "mydog1",
+  "photoUrls": [
+    "http://image.com/image.jpg"
+  ],
+  "tags": [],
+  "status": "available"
+}
+2018-12-17 23:25:50.9536 | DEBUG | _12_16_2018_PetStore.PetStore | Sending request {"name":"mydog1","photoUrls":["http://image.com/image.jpg"],"status":"available"}
+2018-12-17 23:25:50.9795 | DEBUG | _12_16_2018_PetStore.PetStore | Response body: {
+  "id": 8315298304486469524,
+  "name": "mydog1",
+  "photoUrls": [
+    "http://image.com/image.jpg"
+  ],
+  "tags": [],
+  "status": "available"
+}
+2018-12-17 23:26:42.8077 | DEBUG | _12_16_2018_PetStore.PetStore | Sending request {"name":"mydog1","photoUrls":["http://image.com/image.jpg"],"status":"available"}
+2018-12-17 23:26:42.8357 | DEBUG | _12_16_2018_PetStore.PetStore | Response body: {
+  "id": 8315298304486469538,
+  "name": "mydog1",
+  "photoUrls": [
+    "http://image.com/image.jpg"
+  ],
+  "tags": [],
+  "status": "available"
+}
+2018-12-17 23:26:43.2878 | DEBUG | _12_16_2018_PetStore.PetStore | _12_16_2018_PetStore.PetStore
+2018-12-17 23:27:56.7193 | DEBUG | _12_16_2018_PetStore.PetStore | Sending request {"name":"mydog1","photoUrls":["http://image.com/image.jpg"],"status":"available"}
+2018-12-17 23:27:56.7493 | DEBUG | _12_16_2018_PetStore.PetStore | Response body: {
+  "id": 8315298304486469559,
+  "name": "mydog1",
+  "photoUrls": [
+    "http://image.com/image.jpg"
+  ],
+  "tags": [],
+  "status": "available"
+}
+2018-12-17 23:27:57.4306 | DEBUG | _12_16_2018_PetStore.PetStore | Response name mydog1 == Sent mydog1
+2018-12-17 23:28:55.2748 | DEBUG | _12_16_2018_PetStore.PetStore | Sending request {"name":"mydog1","photoUrls":["http://image.com/image.jpg"],"status":"available"}
+2018-12-17 23:28:55.3421 | DEBUG | _12_16_2018_PetStore.PetStore | Response body: {
+  "id": 8315298304486469560,
+  "name": "mydog1",
+  "photoUrls": [
+    "http://image.com/image.jpg"
+  ],
+  "tags": [],
+  "status": "available"
+}
+2018-12-17 23:28:55.8053 | DEBUG | _12_16_2018_PetStore.PetStore | Request name 'mydog1', response name mydog1
+2018-12-17 23:29:30.0460 | DEBUG | _12_16_2018_PetStore.PetStore | Sending request {"name":"mydog1","photoUrls":["http://image.com/image.jpg"],"status":"available"}
+2018-12-17 23:29:30.0750 | DEBUG | _12_16_2018_PetStore.PetStore | Response body: {
+  "id": 8315298304486469561,
+  "name": "mydog1",
+  "photoUrls": [
+    "http://image.com/image.jpg"
+  ],
+  "tags": [],
+  "status": "available"
+}
+2018-12-17 23:29:30.4967 | DEBUG | _12_16_2018_PetStore.PetStore | Request name mydog1, response name mydog1
